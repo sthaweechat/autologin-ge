@@ -3,7 +3,7 @@
 #accounts.txt \
 username,password \
 username2,password2 \
-username3,pssword3 \
+username3,pssword3
 
 
 .env-example -> .env
